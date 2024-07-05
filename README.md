@@ -13,9 +13,9 @@
 
 ###
 <h2 align="left">About me</h2>
-✨ Creating bugs since 2023
-📚 I'm currently learning React
-🎯 Goals: to become an experienced  Full Stack Developer
+<p>✨ Creating bugs since 2023</p>
+<p>📚 I'm currently learning React</p>
+<p>🎯 Goals: to become an experienced  Full Stack Developer</p>
 ###
 
 <div align="left">

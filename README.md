@@ -12,6 +12,11 @@
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
+<h2 align="left">About me</h2>
+✨ Creating bugs since 2023
+📚 I'm currently learning React
+🎯 Goals: to become an experienced  Full Stack Developer
+###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />

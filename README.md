@@ -16,7 +16,6 @@
 <p>✨ Creating bugs since 2023</p>
 <p>📚 I'm currently learning React</p>
 <p>🎯 Goals: to become an experienced  Full Stack Developer</p>
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />

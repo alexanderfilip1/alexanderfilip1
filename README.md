@@ -9,8 +9,6 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
 ###
 <h2 align="left">About me</h2>
 <p>✨ Creating bugs since 2023</p>
